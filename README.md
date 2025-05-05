@@ -8,7 +8,7 @@ ConfessNet: Anonymous confessions on Worldchain. Decentralized, verified, global
        </td>
       <td align="center">
         <a href="https://github.com/vishwasraju">
-          <img src="" width="100px;" alt="Contributor 1"/><br />
+          <img src="https://avatars.githubusercontent.com/u/154666189?v=4" width="100px;" alt="Contributor 1"/><br />
           <b>Vishwas</b>
         </a><br />
         <sub>Contributor</sub>
